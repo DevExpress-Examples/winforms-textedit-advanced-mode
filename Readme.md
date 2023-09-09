@@ -6,7 +6,7 @@
 
 # WinForms Text Editor - Advanced mode
 
-This example demonstrates the WinForms TextEdit operating in the [Advanced Mode](https://docs.devexpress.com/WindowsForms/DevExpress.XtraEditors.Repository.RepositoryItemTextEdit.UseAdvancedMode?p=netframework). The Advanced Mode was first introduced in v20.2.
+This example demonstrates the WinForms TextEdit operating in the [Advanced Mode](https://docs.devexpress.com/WindowsForms/DevExpress.XtraEditors.Repository.RepositoryItemTextEdit.UseAdvancedMode). The Advanced Mode was first introduced in v20.2.
 
 Features include:
 
