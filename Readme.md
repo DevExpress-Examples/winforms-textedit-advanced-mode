@@ -6,13 +6,13 @@
 
 # WinForms Text Editor - Advanced mode
 
-This example demonstrates the WinForms TextEdit operating in the [Advanced Mode](https://docs.devexpress.com/WindowsForms/DevExpress.XtraEditors.Repository.RepositoryItemTextEdit.UseAdvancedMode). The Advanced Mode was first introduced in v20.2.
+This example demonstrates the WinForms TextEdit operating in [Advanced Mode](https://docs.devexpress.com/WindowsForms/DevExpress.XtraEditors.Repository.RepositoryItemTextEdit.UseAdvancedMode). Advanced Mode was first introduced in v20.2.
 
 Features include:
 
 * Animated Caret and Selection
 * Floating Labels
-* Emojis (press the `Win`+`.` hotkey to generate an emoji from the Windows library).
+* Emojis (press the `Win`+`.` hotkey to generate an emoji from the Windows library)
 
 Read the following blog post for more information: [WinForms TextEdit — New v20.2 Features](https://community.devexpress.com/blogs/winforms/archive/2020/10/05/winforms-textedit-new-v20-2-features.aspx).
 
