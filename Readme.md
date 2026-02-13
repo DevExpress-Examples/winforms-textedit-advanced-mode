@@ -22,7 +22,7 @@ Read the following blog post for more information: [WinForms TextEdit — New v2
 
 * [Advanced Mode](https://docs.devexpress.com/WindowsForms/DevExpress.XtraEditors.Repository.RepositoryItemTextEdit.UseAdvancedMode)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-textedit-advanced-mode&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-textedit-advanced-mode&~~~was_helpful=no)
 
